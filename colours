@@ -1,10 +1,11 @@
-bg:     #4b4d75
-fg:     #cacfe2
-black:  #1b1737
-red:    #9c452e
-green:  #8d9251
-yellow: #f2d7a5
-blue:   #4f789d
-purple: #806bc3
-cyan:   #428090
-white:  #cacfe2
+bg: #1c1a14
+fg: #cacfe2
+
+black:   #2c332c
+red:     #9c452e
+green:   #8d9251
+yellow:  #f2d7a5
+blue:    #4f789d
+magenta: #806bc3
+cyan:    #428090
+white:   #cacfe2
